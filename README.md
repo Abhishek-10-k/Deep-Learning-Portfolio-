@@ -1,4 +1,4 @@
-# 🌌 Deep Learning Portfolio  
+# Deep Learning Portfolio  
 
 ## **About This Repository**  
 Welcome to my **Deep Learning Portfolio**, a curated collection of projects and experiments showcasing my journey in **Deep Learning** and **Neural Networks**. This repository focuses on solving real-world problems, exploring cutting-edge techniques, and continuously enhancing my skills.  
@@ -12,9 +12,9 @@ Welcome to my **Deep Learning Portfolio**, a curated collection of projects and 
 ---
 
 ## **Key Highlights**  
-- 🌟 **Real-World Projects**: End-to-end solutions for tangible problems.  
-- 🔬 **Experimentation**: Exploration of neural network designs and optimization strategies.  
-- 🚀 **Learning Journey**: Documentation of challenges, insights, and learnings.  
+- **Real-World Projects**: End-to-end solutions for tangible problems.  
+- **Experimentation**: Exploration of neural network designs and optimization strategies.  
+- **Learning Journey**: Documentation of challenges, insights, and learnings.  
 
 ---
 
@@ -28,9 +28,9 @@ Welcome to my **Deep Learning Portfolio**, a curated collection of projects and 
 
 ## **How to Collaborate?**  
 I’m always open to collaboration on exciting deep learning projects! Here’s how you can reach me:  
-- 📧 **Email**: abhishek86400kumar@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/abhishek-kumar-10k](https://www.linkedin.com/in/abhishek-kumar-10k)  
-- 🤝 **GitHub**: Feel free to fork this repository, suggest improvements, or contribute to ongoing projects.
+- **Email**: abhishek86400kumar@gmail.com  
+- **LinkedIn**: [linkedin.com/in/abhishek-kumar-10k](https://www.linkedin.com/in/abhishek-kumar-10k)  
+- **GitHub**: Feel free to fork this repository, suggest improvements, or contribute to ongoing projects.
 
 ---
 
